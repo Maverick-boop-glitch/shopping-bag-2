@@ -10,6 +10,7 @@ index.html                     halaman utama
 assets/tas-belanja-lipat.jpg   foto produk
 assets/logo-made-by-kain.png   logo
 assets/favicon.png             ikon tab browser
+assets/foto-asli-1..3.jpg     foto asli produk (bagian "Foto asli")
 _headers                       aturan cache Cloudflare Pages
 robots.txt
 ```
